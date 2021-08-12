@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storybook Brawl Game Counter", "Storybook Brawl Game Counter\Storybook Brawl Game Counter.csproj", "{2F3BA03D-DF8F-415E-99E4-2E206B3F8FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3BA03D-DF8F-415E-99E4-2E206B3F8FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3BA03D-DF8F-415E-99E4-2E206B3F8FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3BA03D-DF8F-415E-99E4-2E206B3F8FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3BA03D-DF8F-415E-99E4-2E206B3F8FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB673B2-2327-4C16-AD7A-5125E4FD0C09}
+	EndGlobalSection
+EndGlobal

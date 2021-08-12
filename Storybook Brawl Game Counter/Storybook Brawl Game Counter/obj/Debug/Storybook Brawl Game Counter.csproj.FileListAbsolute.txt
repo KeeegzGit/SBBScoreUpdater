@@ -1,0 +1,10 @@
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook Brawl Game Counter.csproj.AssemblyReference.cache
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook_Brawl_Game_Counter.Form1.resources
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook_Brawl_Game_Counter.Properties.Resources.resources
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook Brawl Game Counter.csproj.GenerateResource.cache
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook Brawl Game Counter.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\bin\Debug\Storybook Brawl Game Counter.exe.config
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\bin\Debug\Storybook Brawl Game Counter.exe
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\bin\Debug\Storybook Brawl Game Counter.pdb
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook Brawl Game Counter.exe
+C:\Users\shado\source\repos\Storybook Brawl Game Counter\Storybook Brawl Game Counter\obj\Debug\Storybook Brawl Game Counter.pdb
